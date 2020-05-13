@@ -1,1 +1,1 @@
-Por meio da leitura do peso e da altura do usuário, é imprimido o valor do IMC (Índice de massa corpórea) do usuário. 
+Through the reading of the weight and height of the user, is printed the value of BMI (body mass index) of the user.
